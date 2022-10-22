@@ -1,0 +1,4 @@
+NAME='apps_metric_edit_from_langchao'
+SRC_PATH=zhangkechi@10.129.164.66:/home/zhangkechi/workspace/apps_metric_edit/
+TGT_PATH=/mnt/e/zkcpku/code_gen_ape/apps_metric_edit/
+PORT=44629

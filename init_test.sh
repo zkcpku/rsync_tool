@@ -1,5 +1,8 @@
-rm -r from/
-rm -r to/
+rm -r test
+mkdir test/
+cd test/
+# rm -r from/
+# rm -r to/
 mkdir from/
 mkdir to/
 

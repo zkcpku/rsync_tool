@@ -1,0 +1,3 @@
+NAME='from2to'
+SRC_PATH=test/from/
+TGT_PATH=test/to/
