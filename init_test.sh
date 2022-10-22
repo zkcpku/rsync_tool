@@ -20,3 +20,6 @@ touch to/2.txt
 touch to/2.log
 touch to/2.py
 echo "*.txt" > to/.gitignore
+
+cd from/
+git init
