@@ -1,0 +1,3 @@
+NAME='from2to'
+SRC_PATH="E:\zkcpku\rsync_tool\from"
+TGT_PATH="E:\zkcpku\rsync_tool\to"
