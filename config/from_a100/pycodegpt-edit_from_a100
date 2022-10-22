@@ -1,0 +1,4 @@
+NAME='pycodegpt-edit_from_langchao'
+SRC_PATH=zhangkechi@58.210.106.211:/home/zhangkechi/workspace/pycodegpt-edit/
+TGT_PATH=/mnt/e/zkcpku/code_gen_ape/pycodegpt-edit/
+PORT=10022
