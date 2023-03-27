@@ -1,0 +1,4 @@
+NAME='hf_clm_finetune_from_a100'
+SRC_PATH=zhangkechi@58.210.106.211:/home/zhangkechi/workspace/dependencyAug/hf_lm/
+TGT_PATH=/mnt/e/zkcpku/hf_clm_finetune/
+PORT=10022
