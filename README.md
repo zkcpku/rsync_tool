@@ -15,3 +15,7 @@ sh main_ssh.sh config\from_langchao\pycodegpt-edit_from_langchao
 rsync: link_stat "/home/zhangkechi/workspace/dependencyAug/hf_lm/\#015" failed: No such file or directory (2)
 ```
 请注意config文件中用LF换行，不要用CRLF换行
+
+
+2. 已知问题：
+- .gitignore填写文件夹时有时不起效
